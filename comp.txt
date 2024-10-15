@@ -1,0 +1,9 @@
+V1 == 'cement'
+V2 == 'blast_furnace_slag'
+V3 == 'fly_ash', 
+V4 == 'water', 
+V5 == 'superplasticizer'
+V6 == 'coarse_aggregate'
+V7 == 'fine_aggregate'
+V8 == 'age'
+V9 == 'compressive_strength
